@@ -6,4 +6,5 @@
  *
  */
 module RewardValueProject {
+	requires junit;
 }

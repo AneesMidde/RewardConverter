@@ -1,7 +1,8 @@
 package com.anees.rewardvalue;
 
 public class RewardValue {
-    private double cashValue; // Cash value in dollars
+    public static final double MILES_TO_CASH_CONVERSION_RATE = 0;
+	private double cashValue; // Cash value in dollars
     private double milesValue; // Miles value
     
     // Constructor accepting cash value
